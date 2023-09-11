@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Balogun Abigail Olayinka @Techtwinmum
+- 👋 Hi, I’m Balogun Abigail Olayinka @techietwinmum
 - 👀 I’m interested in frontend for now 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on mini project to enhance my knowledge 
